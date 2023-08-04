@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(195, 241, 241);
+}
+
+.about-content {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.about-content img {
+    margin-top: 40px;
+    margin-left: 60px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.about {
+    display: flex;
+}
+
+.right {
+    margin-top: 80px;
+    margin-left: 200px;
+    right: 60%
+}
+
+.right p {
+    font-size: 18px;
+}
+
+.footer {
+    margin-top: 30%;
+}
+
+.Social-icon{
+    margin-top:320px;
+    margin-left: 100px;
+    justify-content: center;
+    position: relative;
+    list-style: none;
+    display: flex;
+    color: black;
+    
+}
+.Social-icon li{
+    margin: 14px;
+}
